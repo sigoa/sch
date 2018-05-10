@@ -1,2 +1,1 @@
-# sch
 Schach
